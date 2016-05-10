@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/olendorf/data_entry_prototype.png?label=ready&title=Ready)](https://waffle.io/olendorf/data_entry_prototype)
 <<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
